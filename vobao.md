@@ -1,15 +1,17 @@
-Tổng hợp thông tin thành bảng dữ liệu
+**Trigger words**
+- báo cáo vỏ bao
 
+**Quy trình từng bước**
+
+1. Tổng hợp thông tin thành bảng dữ liệu
 - STT Thùng
 - LAB
-
-Đánh giá màu sắc
-
+2. Đánh giá màu sắc
 - L >= 59 hạt sáng màu
 - 55 < L < 59 hạt đều màu
 - L < 55 hạt tối màu
 
-Output
+**Output**
 
 - Form:
 “QC. Gửi kết quả đánh giá ngoại quan hạt pp bán thành phẩm vỏ bao.
