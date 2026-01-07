@@ -1,6 +1,3 @@
-**Trigger words**
-- độ ẩm
-
 **Công thức**
 
 C = A + \frac{B(100 - D)}{100}
