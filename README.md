@@ -1,3 +1,5 @@
 # Skill
-# Báo cáo vỏ bao
-báo cáo vỏ bao
+# Báo Cáo Vỏ Bao
+- báo cáo vỏ bao
+# % Độ Ẩm
+- độ ẩm
