@@ -1,5 +1,5 @@
 **Trigger words**
-độ ẩm
+- độ ẩm
 
 **Công thức**
 
