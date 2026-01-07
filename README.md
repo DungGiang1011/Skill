@@ -1,5 +1,4 @@
 # Skill
 # Báo Cáo Vỏ Bao
-- báo cáo vỏ bao
-# % Độ Ẩm
-- độ ẩm
+# Độ Ẩm
+# Tạo Mật Khẩu
